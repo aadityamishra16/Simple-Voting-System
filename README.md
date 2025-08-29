@@ -39,9 +39,9 @@ Candidate 3: Charlie
 
   
 How many voters are going to vote? 5  
-
-
-  Welcome to the voting system (Voter 1)    
+  
+  
+Welcome to the voting system (Voter 1)    
   
 Enter 1 to vote for Alice  
 Enter 2 to vote for Bob 
@@ -51,8 +51,7 @@ Enter your choice: 1
 ...  
 
 
-  
-  Voting Results:   
+Voting Results:   
   
 Alice got 2 votes  
 Bob got 2 votes  
@@ -63,5 +62,7 @@ The voting result is tied.
 The voting program has ended.    
   
 # 👨‍💻 Straightforward Logic   
+
+Developed as a beginner-friendly C programming project to demonstrate basic concepts like arrays, loops, conditionals, and user input.  
   
 Developed as a beginner-friendly C programming project to demonstrate basic concepts like arrays, loops, conditionals, and user input.  

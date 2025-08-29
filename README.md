@@ -3,7 +3,7 @@
 This project is a simple command-line voting program written in C.  
 It allows users to enter a list of candidates, collect votes from multiple voters, and finally display the election results with the winner (or declare a tie).  
 
-# 📌 Features
+## 📌 Features
 
 Add any number of candidates.
 
@@ -27,7 +27,7 @@ Each voter casts their vote by entering the corresponding number for their chose
 
 The program shows the vote count per candidate and the winner (or tie).   
 
-# 🚀 Example Run  
+## 🚀 Example Run  
 
   Welcome to the voting program.  
   
@@ -61,8 +61,9 @@ Charlie got 1 votes
 The voting result is tied.  
 The voting program has ended.    
   
-# 👨‍💻 Straightforward Logic   
+## 👨‍💻 Straightforward Logic   
 
-Developed as a beginner-friendly C programming project to demonstrate basic concepts like arrays, loops, conditionals, and user input.  
-  
-Developed as a beginner-friendly C programming project to demonstrate basic concepts like arrays, loops, conditionals, and user input.  
+Developed as a beginner-friendly C programming project to demonstrate basic concepts like arrays, loops, conditionals, and user input.   
+
+## 👨‍💻 Contact
+For more ideas and queries, you can connect with me on Linkedin - https://www.linkedin.com/in/aadityamishra16

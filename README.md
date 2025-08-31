@@ -61,7 +61,7 @@ Charlie got 1 votes
 The voting result is tied.  
 The voting program has ended.    
   
-## 👨‍💻 Straightforward Logic   
+## ✍️ Straightforward Logic   
 
 Developed as a beginner-friendly C programming project to demonstrate basic concepts like arrays, loops, conditionals, and user input.   
 

@@ -15,7 +15,7 @@ Displays total votes received by each candidate.
 
 Declares the winner or announces a tie.
 
-# ⚙️ How It Works
+## ⚙️ How It Works
 
 The program asks for the number of candidates.  
 
